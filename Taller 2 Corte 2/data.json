@@ -1,0 +1,33 @@
+[
+  {
+    "id": "8198675576",
+    "nombre": "Ana",
+    "apellido": "García",
+    "direccion": "Av. Principal, Urb. Los Sauces",
+    "telefono": "987654321",
+    "CorreoElectronico": "AnaGarcia@gmail.com",
+    "ciudad": "Lima",
+    "pais": "Perú"
+  },
+  {
+    "id": "8199123465",
+    "nombre": "Sofía",
+    "apellido": "Martínez",
+    "direccion": "Calle 45, Col. Roma",
+    "telefono": "5544332211",
+    "CorreoElectronico": "SofiaMartinez@hotmail.com",
+    "ciudad": "México DF",
+    "pais": "México"
+  },
+  {
+    "id": "8200145632",
+    "nombre": "David",
+    "apellido": "Kim",
+    "direccion": "Gangnam-gu",
+    "telefono": "01012345678",
+    "CorreoElectronico": "DavidKim@naver.com",
+    "ciudad": "Seúl",
+    "pais": "Corea del Sur"
+  }
+  
+]
